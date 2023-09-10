@@ -1,0 +1,12 @@
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/bin/Debug/net7.0/MessageContracts.deps.json
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/bin/Debug/net7.0/MessageContracts.dll
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/bin/Debug/net7.0/MessageContracts.pdb
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/obj/Debug/net7.0/MessageContracts.csproj.AssemblyReference.cache
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/obj/Debug/net7.0/MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/obj/Debug/net7.0/MessageContracts.AssemblyInfoInputs.cache
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/obj/Debug/net7.0/MessageContracts.AssemblyInfo.cs
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/obj/Debug/net7.0/MessageContracts.csproj.CoreCompileInputs.cache
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/obj/Debug/net7.0/MessageContracts.dll
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/obj/Debug/net7.0/refint/MessageContracts.dll
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/obj/Debug/net7.0/MessageContracts.pdb
+/Users/safakca/Projects/RabbitMQ.MasstransitExample/MessageContracts/obj/Debug/net7.0/ref/MessageContracts.dll
